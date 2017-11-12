@@ -1,0 +1,5 @@
+/home/INTRANET/breymond/myfiles/projectneuronfinal/build/CMakeFiles/unitTest.dir
+/home/INTRANET/breymond/myfiles/projectneuronfinal/build/CMakeFiles/doc.dir
+/home/INTRANET/breymond/myfiles/projectneuronfinal/build/googletest/CMakeFiles/gtest.dir
+/home/INTRANET/breymond/myfiles/projectneuronfinal/build/CMakeFiles/Simulation.dir
+/home/INTRANET/breymond/myfiles/projectneuronfinal/build/googletest/CMakeFiles/gtest_main.dir
